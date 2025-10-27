@@ -23,7 +23,7 @@ The goal was to create a centralized monitoring system capable of collecting met
 ### 1️⃣ Resource Group
 Resource group created to isolate all monitoring components.  
 
-![Resource Group](01-resource-group.png)
+![Resource Group](/screenshots/resource_group.png)
 
 ---
 
@@ -37,14 +37,14 @@ Centralized workspace created to store logs and performance metrics.
 ### 3️⃣ Connecting the VM
 The VM was connected through the **Azure Monitor Agent (AMA)** and linked to the workspace using a **Data Collection Rule**.  
 
-![Logs Heartbeat](03-logs-heartbeat.png)  
+![Logs Heartbeat](/screenshots/heartbeat.png)  
 
 ---
 
 ### 4️⃣ Alert Rule
 Created an alert that triggers when **CPU usage exceeds 80%**, demonstrating proactive monitoring and incident detection.  
 
-![Alert Rule](04-alert-rule.png)
+![Alert Rule](/screenshots/alert_rule.jpeg)
 
 ---
 
@@ -54,7 +54,7 @@ Built a custom **Azure Monitor Dashboard** to visualize:
 - Memory usage  
 - Heartbeat frequency  
 
-![Dashboard](05-dashboard.png)
+![Dashboard](/screenshots/dashboard.png)
 
 ---
 
