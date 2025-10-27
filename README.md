@@ -1,4 +1,4 @@
-# 📊 Azure Monitoring & Log Analytics
+# 📊 Azure Monitoring, Log Analytics & Alerts
 
 ## 🎯 Objective
 This lab demonstrates how to **monitor and analyze infrastructure performance** in Microsoft Azure using **Log Analytics, Azure Monitor, and Alerts**.  
