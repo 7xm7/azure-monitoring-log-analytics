@@ -30,7 +30,7 @@ Resource group created to isolate all monitoring components.
 ### 2️⃣ Log Analytics Workspace
 Centralized workspace created to store logs and performance metrics.  
 
-![Log Workspace](02-log-workspace.png)
+![Log Workspace](/screenshots/log_workspace.jpeg)
 
 ---
 
